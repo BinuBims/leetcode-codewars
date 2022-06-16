@@ -20,5 +20,3 @@ def addStrings(string1, string2):
 print(addStrings('10000000000000001','100000000000000000000003'))
 print(addStrings('4.0','5.0'))
 print(addStrings('4.3','5.5'))
-
-print(addStrings('4','5'))
